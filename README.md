@@ -1,2 +1,2 @@
-# PrepCourseGutierrez
-repositorio de preba del modulo 2 del PrepCourse Henry
+este proyecto de prueba de como crear un repositorio y clonarlo desde github a mi computador 
+
